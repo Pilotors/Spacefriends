@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Space Friends</string>
+    <string name="hello">Hello Space Friends</string>
+    <string name="from">Pilots</string>
 </resources>
